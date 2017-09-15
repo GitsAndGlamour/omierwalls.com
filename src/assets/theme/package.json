@@ -1,0 +1,50 @@
+{
+  "name": "material-style",
+  "version": "1.4.0",
+  "description": "Bootstrap Material Style Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrigm/material-style.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "Bootstrap",
+    "Template",
+    "Theme"
+  ],
+  "author": "Adrián Guerra Marrero",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/adrigm/material-style/issues"
+  },
+  "homepage": "https://github.com/adrigm/material-style#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-changed": "^3.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-prettify": "^0.5.0",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-themes": "^2.0.1",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "merge-stream": "^1.0.1",
+    "path": "^0.12.7",
+    "run-sequence": "^2.0.0",
+    "yargs": "^8.0.2"
+  }
+}

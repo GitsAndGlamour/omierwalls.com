@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.zmdi, .fa {
+  padding-top: 17px !important;
+}
+
+.zmdi-chevron-down {
+  padding-top: 0px !important;
+}
