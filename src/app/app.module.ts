@@ -9,6 +9,8 @@ import { NavigationComponent } from './navigation/navigation.component';
 import { HomeHeroComponent } from './home-hero/home-hero.component';
 import { FooterComponent } from './footer/footer.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
+import { NewsArticleComponent } from './footer/news-article/news-article.component';
+import { SubscribeComponent } from './footer/subscribe/subscribe.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { SidebarComponent } from './sidebar/sidebar.component';
     NavigationComponent,
     HomeHeroComponent,
     FooterComponent,
-    SidebarComponent
+    SidebarComponent,
+    NewsArticleComponent,
+    SubscribeComponent
   ],
   imports: [
     BrowserModule
