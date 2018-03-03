@@ -6,3 +6,11 @@
 .zmdi-chevron-down {
   padding-top: 0px !important;
 }
+
+.btn .zmdi {
+  font-size: 20px;
+}
+
+a .zmdi {
+  padding-top: 0px !important;
+}
