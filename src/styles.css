@@ -14,3 +14,17 @@
 a .zmdi {
   padding-top: 0px !important;
 }
+
+.btn-rounded {
+  border-radius: 5%;
+}
+.btn-rounded i {
+    padding-bottom: 8px;
+  }
+
+.btn-rounded-white {
+  background: white;
+}
+.modal-backdrop.in {
+  visibility: hidden;
+}

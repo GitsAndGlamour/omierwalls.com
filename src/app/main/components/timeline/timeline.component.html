@@ -1,0 +1,12 @@
+<div #timeline id="timeline">
+  <div class="card card-body card-body-big wow fadeInUp">
+    <div class="text-center fw-500 mb-6">
+      <br>
+      <br>
+      <h3>Work Experiences</h3>
+      <ul class="ms-timeline-left">
+        <app-experience [experience]="experience" *ngFor="let experience of experiences"></app-experience>
+      </ul>
+    </div>
+  </div>
+</div>

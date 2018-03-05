@@ -7,9 +7,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavigationComponent implements OnInit {
 
-  constructor() { }
+  public isNavbarScroll;
+  constructor() {
+    this.isNavbarScroll = false;
+  }
 
   ngOnInit() {
+    document.onscroll = function() {
+    const windowYOffset = window.pageYOffset;
+      if (windowYOffset > 500) {
+        return true;
+      }
+    };
+    if (document.onscroll) {
+      this.isNavbarScroll = true;
+    }
   }
 
 }

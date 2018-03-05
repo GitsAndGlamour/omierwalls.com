@@ -1,0 +1,14 @@
+.modal-body {
+  display: block;
+}
+.artwork-title {
+  margin:0
+}
+.btn-circle .fa {
+  padding-top: 0 !important;
+}
+.canvas-size {
+  border: 3px solid grey;
+  font-weight: 500;
+  background-color: lightblue;
+}

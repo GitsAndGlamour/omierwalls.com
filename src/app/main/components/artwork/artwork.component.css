@@ -1,0 +1,21 @@
+#artwork {
+  margin: 5%;
+  padding: 1%;
+}
+
+.row {
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+.col-md-4 {
+  margin-top: 5.5%;
+}
+
+.card {
+  height: 300px;
+}
+
+.zmdi {
+  padding-top: 8px !important;
+}

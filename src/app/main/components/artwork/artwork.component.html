@@ -1,0 +1,30 @@
+<div #artwork id="artwork">
+  <div class="card-body card-body-big">
+    <br>
+    <h3 class="text-center fw-500 mb-4">Artwork</h3>
+    <div class="row">
+      <div *ngFor="let art of addArtwork()" class="col-md-4">
+        <div class="card">
+          <figure class="ms-thumbnail">
+            <img src="{{art.url}}" alt="" class="img-fluid">
+            <figcaption class="ms-thumbnail-caption text-center">
+              <div class="ms-thumbnail-caption-content">
+                <h4 class="ms-thumbnail-caption-title mb-2">{{art.title.toUpperCase()}} <i>({{art.media}})</i></h4>
+                <a href="javascript:void(0)" class="btn-rounded btn btn-raised btn-xs mr-1 btn-rounded-white color-danger"  data-toggle="tooltip" data-placement="right" title="Favorite this piece on Imagur!">
+                  <i class="zmdi zmdi-favorite"></i> Favorite
+                </a>
+                <a href="javascript:void(0)" class="btn-rounded btn btn-raised btn-xs ml-1 mr-1 btn-rounded-white color-warning"  data-toggle="tooltip" data-placement="right" title="Share this piece!">
+                  <i class="zmdi zmdi-share"></i> Share
+                </a>
+                <a type="button" (click)="selectArt(art)" class="btn-rounded btn-raised btn btn-xs ml-1 btn-rounded-white color-success" data-toggle="modal" data-target="#artworkModal">
+                  <i class="zmdi zmdi-money"></i> Purchase
+                </a>
+              </div>
+            </figcaption>
+          </figure>
+          <app-artwork-modal *ngIf="selectedArt" [art]="selectedArt"></app-artwork-modal>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,62 @@
+<div class="modal" id="artworkModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog animated zoomIn animated-3x" role="document">
+    <div class="modal-content">
+      <div class="modal-header row">
+        <h3 class="modal-title color-primary col-lg-10" id="myModalLabel">Purchase</h3>
+        <button type="button" class="close col-lg-1" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="zmdi zmdi-close"></i></span></button>
+      </div>
+      <div class="modal-body">
+            <div class="mb-2 mt-4">
+              <div class="row">
+                <div class="col-sm-6">
+                  <h2 class="artwork-title">{{art.title.toUpperCase()}}</h2>
+                </div>
+                <div class="col-sm-6 text-center">
+                  <h2 class="color-success no-m text-normal">$ {{art.price}}</h2>
+                </div>
+              </div>
+            </div>
+            <p class="lead">{{art.description}}</p>
+        <div class="row">
+          <div class="col-sm-6">
+            <ul class="list-unstyled">
+              <li>
+                <strong>Medium: </strong>{{art.media}}</li>
+              <li>
+                <strong>Number of items: </strong>
+                <div class="form form-inline input-number">
+                  <button class="btn-circle btn-circle-primary btn-circle-xs" type="button">
+                    <i class="fa fa-minus"></i>
+                  </button>
+                  <div class="form-group"><input type="text" class="form-control form-control-number" pattern="[0-9]*" value="1"></div>
+                  <button class="btn-circle btn-circle-primary btn-circle-xs" type="button">
+                    <i class="fa fa-plus"></i>
+                  </button>
+                </div>
+              </li>
+              <li class="mb-2">
+                <strong>Original Availability: </strong>
+                <span class="ms-tag ms-tag-success" *ngIf="art.isOriginalAvailable">in stock</span>
+                <span class="ms-tag ms-tag-danger" *ngIf="!art.isOriginalAvailable">sold</span>
+              </li>
+              <li>
+                <strong>Shipping costs: </strong>
+                <span class="color-warning">$5.25</span>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-6">
+            <div class="canvas-size" height="150" width="200"></div>
+            <b>30" x 40"</b>
+          </div>
+        </div>
+            <a href="javascript:void(0)" class="btn btn-primary btn-block btn-raised mt-2 no-mb">
+              <i class="zmdi zmdi-shopping-cart-plus"></i> Add to Cart</a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        <button type="button" class="btn  btn-primary">Purchase</button>
+      </div>
+    </div>
+  </div>
+</div>

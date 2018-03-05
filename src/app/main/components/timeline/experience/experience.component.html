@@ -1,0 +1,12 @@
+<li class="ms-timeline-left-item wow fadeInUp" style="text-align: start; visibility: visible; animation-name: fadeInUp;">
+  <h4>{{experience.company}}</h4>
+  <div class="ms-timeline-left-left">
+    <h4 class="color-primary">{{experience.title}}</h4>
+    <time class="ms-timeline-left-time">{{experience.start}} - {{experience.isPresent ? 'present' : experience.end }}</time>
+  </div>
+  <span class="ms-timeline-left-city">{{experience.location}}</span>
+  <p>{{experience.description}}</p>
+  <ul>
+    <li *ngFor="let point of experience.points">{{point}}</li>
+  </ul>
+</li>
