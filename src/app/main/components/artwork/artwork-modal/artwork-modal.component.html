@@ -12,7 +12,7 @@
                   <h2 class="artwork-title">{{art.title.toUpperCase()}}</h2>
                 </div>
                 <div class="col-sm-6 text-center">
-                  <h2 class="color-success no-m text-normal">$ {{art.price}}</h2>
+                  <h2 class="color-success no-m text-normal">{{art.price | currency:'USD':true}}</h2>
                 </div>
               </div>
             </div>
@@ -23,14 +23,28 @@
               <li>
                 <strong>Medium: </strong>{{art.media}}</li>
               <li>
+                <div class="rows" id="size-row">
+                  <div class="col-sm-2 col">
+                    <strong>Size: </strong>
+                  </div>
+                  <div class="col-sm-10 col">
+                      <select class="form-control" #size (change)="selectSize($event.target.value)">
+                        <optgroup *ngFor="let option of canvasOptions" label="{{option.name}}">
+                          <option *ngFor="let size of option.sizes" class="dropdown-item" ngModelGroup="size"><a href="#">{{size.height}}" x {{size.width}}"</a></option>
+                        </optgroup>
+                      </select>
+                  </div>
+                </div>
+              </li>
+              <li>
                 <strong>Number of items: </strong>
                 <div class="form form-inline input-number">
-                  <button class="btn-circle btn-circle-primary btn-circle-xs" type="button">
+                  <button class="btn-circle btn-circle-primary btn-circle-xs" (click)="incrementQuantity(false)" type="button">
                     <i class="fa fa-minus"></i>
                   </button>
-                  <div class="form-group"><input type="text" class="form-control form-control-number" pattern="[0-9]*" value="1"></div>
+                  <div class="form-group"><input ngModel="qty" type="text" class="form-control form-control-number" pattern="[0-9]*" value="{{qty}}"></div>
                   <button class="btn-circle btn-circle-primary btn-circle-xs" type="button">
-                    <i class="fa fa-plus"></i>
+                    <i class="fa fa-plus" (click)="incrementQuantity(true)"></i>
                   </button>
                 </div>
               </li>
@@ -46,8 +60,8 @@
             </ul>
           </div>
           <div class="col-sm-6">
-            <div class="canvas-size" height="150" width="200"></div>
-            <b>30" x 40"</b>
+            <div class="canvas-size" style="height: 100px; width:100px;"></div>
+            <div class="canvas-size-text"><b>{{selectedSize.height}}" x {{selectedSize.width}}"</b></div>
           </div>
         </div>
             <a href="javascript:void(0)" class="btn btn-primary btn-block btn-raised mt-2 no-mb">
