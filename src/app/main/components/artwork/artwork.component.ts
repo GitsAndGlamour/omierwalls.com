@@ -1,19 +1,24 @@
 import { Component, OnInit } from '@angular/core';
+import {CanvasOption, Product, Size} from './artwork-modal/artwork-modal.component';
 
 export class Art {
   url: string;
   title: string;
   media: string;
-  isOriginalAvailable?: string;
+  isOriginalAvailable?: boolean;
   price: number;
   description: string;
-  constructor(url, title, price, description, media, isOriginalAvailable?) {
+  product?: Product;
+  constructor(url: string, title: string, price: number, description: string, media: string, isOriginalAvailable?: boolean, option?: CanvasOption, size?: Size) {
     this.url = url;
     this.title = title;
     this.media = media;
     this.price = price;
     this.description = description;
     this.isOriginalAvailable = isOriginalAvailable ? isOriginalAvailable : false;
+    if (this.isOriginalAvailable) {
+      this.product = new Product(option, size)
+    }
   }
 }
 

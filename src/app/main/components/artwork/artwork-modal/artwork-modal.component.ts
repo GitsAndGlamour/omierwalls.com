@@ -1,7 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {Art} from '../artwork.component';
 
-class Size {
+export class Size {
   code: string;
   height: number;
   width: number;
@@ -12,7 +12,7 @@ class Size {
   }
 }
 
-class CanvasOption {
+export class CanvasOption {
   code: number;
   name: string;
   sizes: Size[];
@@ -20,6 +20,15 @@ class CanvasOption {
     this.code = code;
     this.name = name;
     this.sizes = sizes;
+  }
+}
+
+export class Product {
+  option: CanvasOption;
+  size: Size;
+  constructor(option: CanvasOption, size: Size) {
+    this.option = option;
+    this.size = size;
   }
 }
 
@@ -36,8 +45,12 @@ export class ArtworkModalComponent implements OnInit {
   qty = 1;
   amountPerSqIn: 0.25;
   selectedCategory: CanvasOption;
+  selectedProduct: Product;
   selectedSize: Size;
   canvasOptions: CanvasOption[] = [];
+  adjustedHeight = 150 * 11 / 17;
+  adjustedWidth = 150;
+  ratio: number;
 
 constructor() {
 }
@@ -46,26 +59,36 @@ ngOnInit(): void {
   this.addCanvasOptions();
   this.selectedCategory = this.canvasOptions[0];
   this.selectedSize = this.selectedCategory.sizes[0];
+  this.selectedProduct = new Product(this.selectedCategory, this.selectedSize);
 }
   adjustPrice(price, criteria) {
     console.log(price, criteria);
   }
   public selectCategory(option: CanvasOption) {
-  console.log(option);
-  this.selectedCategory = option;
+    this.selectedCategory = option;
     console.log(JSON.stringify(this.selectedCategory));
   }
-  public selectSize(value: any) {
-    console.log(value);
+  public selectSize(value: Size) {
+  console.log(value);
     this.selectedSize = value;
+    this.ratio = this.selectedSize.height / this.selectedSize.width;
+    this.adjustedHeight = Math.floor(150 * this.ratio);
+    console.log(this.adjustedWidth, this.adjustedHeight);
   }
-
+  public selectProduct() {
+    console.log(this.selectedProduct);
+    this.selectSize(this.selectedProduct.size);
+    this.selectCategory(this.selectedProduct.option);
+  }
   incrementQuantity(up: boolean) {
   console.log(up, this.qty);
     if (up) {
       ++this.qty;
     } else {
       --this.qty;
+    }
+    if (this.qty < 1) {
+      this.qty = 1;
     }
   }
 
