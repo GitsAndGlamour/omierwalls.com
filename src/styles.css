@@ -29,6 +29,6 @@ a .zmdi {
   visibility: hidden;
 }
 
-.intro-full-content {
-  min-height: 650px !important;
+div#home {
+  min-height: 625px !important;
 }
