@@ -8,9 +8,12 @@
           <h4 class="color-primary fw-500 md-1">{{school.major}}</h4>
           <div class="color-info">{{school.name}}</div>
           <span class="small color-warning">{{school.start}} - {{school.end}}</span>
-          <p class="mt-1">{{school.description}}</p>
         </div>
       </div>
+    </div>
+    <h5 class="text-center fw-500 mb-2">Relevant Courses</h5>
+    <div class="course-block">
+      <span class="ms-tag ms-tag-light color-primary" *ngFor="let course of schools[0].description">{{course}}</span>
     </div>
   </div>
 </div>

@@ -6,3 +6,9 @@
 .col-lg-4 {
   padding: 2%;
 }
+
+.course-block {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -5,8 +5,8 @@ class School {
   major: string;
   start: number;
   end: number;
-  description: string;
-  constructor(name: string, major: string, start: number, end: number, description: string) {
+  description: string[];
+  constructor(name: string, major: string, start: number, end: number, description: string[]) {
     this.name = name;
     this.major = major;
     this.start = start;
@@ -29,20 +29,16 @@ export class EducationComponent implements OnInit {
   }
   addSchools() {
     this.schools.push(new School('University of Wisconsin - Milwaukee', 'Information Science and Technology', 2014, 2016,
-      'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum ' +
-      'sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies ' +
-      'nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. ' +
-      'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.'));
+       ['Intro to Information Science','Intro to Web Design','Multimedia Web Design' ,'Native Mobile Applications',
+         'Organization of Knowledge' ,'Web App Development', 'Systems Analysis',
+         'Oracle Academy DB Design and Programming with SQL', 'Intro to Comp Programming' ,
+         'Survey of Web & Mobile Content', 'Information Architecture' ,'Multimedia Application Design',
+         'Intermediate Comp Multimedia' ,'App Development', 'Programming Database',
+         'Human Factors in Info Seek & Use', 'Info Retrieval Systems']));
     this.schools.push(new School('Milwaukee Area Technical College', 'Information Science', 2011, 2013,
-      'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum ' +
-      'sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies ' +
-      'nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. ' +
-      'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.'));
+      []));
     this.schools.push(new School('Middle Georgia College', 'Computer Science', 2008, 2010,
-      'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum ' +
-      'sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies ' +
-      'nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. ' +
-      'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.'));
+      []));
     // this.schools.push(new School('South Cobb High School', 'H.S. Diploma', null, 2008,
     //   'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum ' +
     //   'sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies ' +

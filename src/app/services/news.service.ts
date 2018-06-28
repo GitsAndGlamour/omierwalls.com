@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import {NewsFeedDetail} from '../classes/news-feed-detail';
 import {newsFeed} from '../test/testData';
-import {Observable} from 'rxjs/Observable';
+import {Observable} from 'rxjs/index';
 
 @Injectable()
 export class NewsService {

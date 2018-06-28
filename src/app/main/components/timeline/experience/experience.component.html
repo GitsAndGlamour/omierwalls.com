@@ -6,7 +6,7 @@
   </div>
   <span class="ms-timeline-left-city">{{experience.location}}</span>
   <p>{{experience.description}}</p>
-  <ul>
-    <li *ngFor="let point of experience.points">{{point}}</li>
-  </ul>
+  <div class="row" style="display: block">
+      <span class="ms-tag ms-tag-light color-primary" *ngFor="let point of experience.points">{{point}}</span>
+  </div>
 </li>

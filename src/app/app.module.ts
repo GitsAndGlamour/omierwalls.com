@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import {CUSTOM_ELEMENTS_SCHEMA, NgModule} from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ConfiguratorComponent } from './configurator/configurator.component';
@@ -18,7 +18,6 @@ import { ArtworkComponent } from './main/components/artwork/artwork.component';
 import { InformationComponent } from './main/components/information/information.component';
 import { ExperienceComponent } from './main/components/timeline/experience/experience.component';
 import { BlogComponent } from './main/components/blog/blog.component';
-import {ChartsModule} from 'ng2-charts';
 import { ArtworkModalComponent } from './main/components/artwork/artwork-modal/artwork-modal.component';
 import {FormsModule} from '@angular/forms';
 
@@ -45,7 +44,6 @@ import {FormsModule} from '@angular/forms';
   ],
   imports: [
     BrowserModule,
-    ChartsModule,
     FormsModule
   ],
   providers: [],
