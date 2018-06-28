@@ -1,3 +1,6 @@
 .btn-navbar-menu {
   padding-top: 13px !important;
 }
+.container-full {
+  display: flex;
+}

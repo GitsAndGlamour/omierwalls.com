@@ -28,3 +28,7 @@ a .zmdi {
 .modal-backdrop.in {
   visibility: hidden;
 }
+
+.intro-full-content {
+  min-height: 650px !important;
+}

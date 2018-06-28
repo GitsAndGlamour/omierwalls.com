@@ -3,7 +3,12 @@
   padding: 1%;
 }
 
-.col-lg-4 {
+.school-group {
+  display:flex;
+  justify-content: center;
+}
+
+.school-section {
   padding: 2%;
 }
 

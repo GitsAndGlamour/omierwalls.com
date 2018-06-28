@@ -2,8 +2,8 @@
   <div id="education" class="card card-body card-body-big wow fadeInUp">
     <br>
     <h3 class="text-center fw-500 mb-2">Education</h3>
-    <div class="row">
-      <div *ngFor="let school of schools" class="col-lg-4">
+    <div class="row school-group">
+      <div *ngFor="let school of schools" class="school-section">
         <div class="pr-1 pl-1">
           <h4 class="color-primary fw-500 md-1">{{school.major}}</h4>
           <div class="color-info">{{school.name}}</div>
