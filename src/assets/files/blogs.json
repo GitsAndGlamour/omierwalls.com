@@ -1,0 +1,1520 @@
+{
+  "metadata" : {
+    "version" : "1.0"
+  },
+  "entries" : [
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475493839951696,
+            "latitude" : 33.879134612871823
+          },
+          "identifier" : "<+33.87913461,-84.47549384> radius 141.75",
+          "radius" : 141.75402346382981
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475494384765625,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879135131835938
+      },
+      "creationDate" : "2015-10-04T19:59:24Z",
+      "text" : "How to Predict the Future\n[spoiler] What I Learned From The Lego Movie [\/spoiler]\n\nIf you haven’t watched The LEGO Movie, don’t read this.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 45,
+        "conditionsDescription" : "Overcast",
+        "pressureMB" : 1008.8900146484375,
+        "visibilityKM" : 11.409999847412109,
+        "relativeHumidity" : 91,
+        "windSpeedKPH" : 1.9199999570846558,
+        "weatherCode" : "cloudy",
+        "temperatureCelsius" : 18.829999923706055
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "5E1C6432D5E1418C903AAA3B6A4D223A",
+      "tags" : [
+        "productivity",
+        "life",
+        "goals"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475417238993828,
+            "latitude" : 33.879141064181276
+          },
+          "identifier" : "<+33.87914106,-84.47541724> radius 141.75",
+          "radius" : 141.7540234173882
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475418090820312,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879142761230469
+      },
+      "creationDate" : "2015-10-08T19:58:57Z",
+      "text" : "Goal Setting is Writing Your Brain a ℞\nWhy Goals are Like Prescriptions\n\nYou don’t feel well. You’re depressed. You’re unhappy. People are out there flushing thousands of dollars down the drain (literally) and using big stacks of money as play phones. You’re not happy with the state of the nation, world, and universe. You’re going through a breakup. Life isn’t going according to whatever you expected. When doctors see you feeling unwell, they write out a solution for your problems which you are to take regularly until it is resolved or to keep it resolved. When you see life going unwell, you should do the same. Setting goals and then taking them on in small dosages is exactly what it takes to resolve the problem of life causing you to feel unwell. Here are some tips from a habitual goal-setter.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 143,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1018.3699951171875,
+        "visibilityKM" : 16.090000152587891,
+        "relativeHumidity" : 52,
+        "windSpeedKPH" : 0.80000001192092896,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 26.139999389648438
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "9E79664D22984957B26A96ACA189927A",
+      "tags" : [
+        "life",
+        "lessons",
+        "stress",
+        "conflicts",
+        "productivity",
+        "goals"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475570847539785,
+            "latitude" : 33.879143407397606
+          },
+          "identifier" : "<+33.87914341,-84.47557085> radius 141.75",
+          "radius" : 141.75402340260166
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475570678710938,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879142761230469
+      },
+      "creationDate" : "2015-12-04T21:00:26Z",
+      "text" : "The Week My Brain Crashed Three Times\nHow to Recoup and Stay Functional when Facing Mental Exhaustion\n\nI’m always tired. I’m tired right now. I was tired last year too. I was tired ten years ago. I know all about being tired. Since I’m somewhat of an expert on tired, I would like to give some tried and true tips on being tired. \n",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 56,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1031.719970703125,
+        "visibilityKM" : 16.090000152587891,
+        "relativeHumidity" : 35,
+        "windSpeedKPH" : 2.119999885559082,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 12.710000038146973
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "0EA458E70AFC4B12BD354D8033C1A60D",
+      "tags" : [
+        "lessons",
+        "stress",
+        "productivity"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475529717156547,
+            "latitude" : 33.879133823297565
+          },
+          "identifier" : "<+33.87913382,-84.47552972> radius 141.75",
+          "radius" : 141.75402347466556
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475532531738281,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879135131835938
+      },
+      "creationDate" : "2016-01-21T20:59:48Z",
+      "text" : "What It's Like to Learn JavaScript In Two Weeks\nAnd Why I’ll Never Do That Again\n\nPreparation is everything, and admittedly I was not prepared when I entered my PHP bootcamp. I was facing a huge learning gap. They didn’t tell us to learn JavaScript. I only knew a little bit along with PHP and MySQL. I felt doomed due to my knowledge gap. So what did I do? I ran to TeamTreehouse.com. And yes, I learned JavaScript in two weeks. And no, I didn’t like it. Here’s why?",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 103,
+        "conditionsDescription" : "Overcast",
+        "pressureMB" : 1019.239990234375,
+        "visibilityKM" : 10.350000381469727,
+        "relativeHumidity" : 83,
+        "windSpeedKPH" : 3.2799999713897705,
+        "weatherCode" : "cloudy",
+        "temperatureCelsius" : 8.2700004577636719
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "D9BC856B71D343ECAC50B05C1A93A5ED",
+      "tags" : [
+        "lessons",
+        "stress",
+        "learning",
+        "job searching",
+        "industry",
+        "productivity",
+        "coding",
+        "JavaScript"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.560294999999996,
+            "latitude" : 33.927087001184233
+          },
+          "identifier" : "<+33.92708700,-84.56029500> radius 70.59",
+          "radius" : 70.587301761526618
+        },
+        "localityName" : "Marietta",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.560295104980469,
+        "placeName" : "300 E Burns Ct SW",
+        "latitude" : 33.927085876464844
+      },
+      "creationDate" : "2016-01-27T20:54:51Z",
+      "text" : "Lorem Ipsum. \nThe Difference Between a Coder and a Developer\n\nThe answer has been clear all along. It’s been right in front of us sitting there as un-decoded filler text.\n\nThe standard Lorem Ipsum passage, used since the 1500s:\n\n\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"\n\n1914 translation by H. Rackham:\n\n\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"\n\nIt is evident that the answer rests in this text. One who takes on the task of working harder to understand and perfect their craft in order to have more pleasure from working within it, is a developer. \n\nOne who thinks of learning as unnecessarily strenuous and avoids difficult tasks only to receive no pleasure from working within the field as a result, is a coder.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 320,
+        "conditionsDescription" : "Overcast",
+        "pressureMB" : 1018.5800170898438,
+        "visibilityKM" : 14.239999771118164,
+        "relativeHumidity" : 75,
+        "windSpeedKPH" : 2.8199999332427979,
+        "weatherCode" : "cloudy",
+        "temperatureCelsius" : 6.7399997711181641
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "C9B69DD872CD4D05AB5E8AA58DF1DDB4",
+      "tags" : [
+        "lessons",
+        "coding",
+        "philosophy"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475422079455015,
+            "latitude" : 33.879147935827291
+          },
+          "identifier" : "<+33.87914794,-84.47542208> radius 141.75",
+          "radius" : 141.75402336454272
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475425720214844,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879146575927734
+      },
+      "creationDate" : "2016-03-10T20:58:37Z",
+      "text" : "Agile Done Wrong\nMy Experienced Side-Effects of Poor Task Capacity Estimation\n\nYou’re bottlenecked and you have a lot on your plate. How did it get this way? I’m going to do my best to decode common problems teams face in the Agile process when adhering to each Scrum, Kanban, and XP.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 164,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1018.5800170898438,
+        "visibilityKM" : 7.2600002288818359,
+        "relativeHumidity" : 49,
+        "windSpeedKPH" : 6.9499998092651367,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 25.270000457763672
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "398825A7937345108157CC277222C891",
+      "tags" : [
+        "jobs",
+        "XP",
+        "communication",
+        "industry",
+        "productivity",
+        "SCRUM",
+        "pros and cons",
+        "Kanban",
+        "employment",
+        "Agile"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475570107169403,
+            "latitude" : 33.879136887730766
+          },
+          "identifier" : "<+33.87913689,-84.47557011> radius 141.75",
+          "radius" : 141.75402345023988
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475570678710938,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879135131835938
+      },
+      "creationDate" : "2016-03-15T20:00:44Z",
+      "text" : "My Kid is Annoying. Here's Why I Love It\nTips I've Learned to Combat 'Mommy! Mommy! Mommy' Syndrome\n\nOne time, I was in the middle of my Microeconomics final exam. My son, who was two at the time, pooped himself three times. Never in the history of being Christopher has he done that to me except then. I knew he could sense my intense focus and it was obvious he had oppositions to it. He was endlessly crying and fussing the whole 90 minutes. I ended up getting a 95 and I don’t know how, but the moment I put the laptop down, he went back to ignoring me. Children have a way of helping you tap into your inner strengths, ability to overcome obstacles, and resourcefulness. Parenting grows you as an individual and forces you to meet the same levels as other people without kids in order to be hirable. Also there’s that moment when you accomplish something that not many people without kids can do, and it’s amazing. Here are some tips I’ve learned to help you navigate early childhood parenting and becoming an emerging force in the IT field.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 225,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1009.97998046875,
+        "visibilityKM" : 7.2600002288818359,
+        "relativeHumidity" : 31,
+        "windSpeedKPH" : 7.070000171661377,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 29.239999771118164
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "52D399BF4545464D92F4D7F30F876405",
+      "tags" : [
+        "lessons",
+        "stress",
+        "jobs",
+        "communication",
+        "children",
+        "kids",
+        "pros and cons",
+        "industry",
+        "employment",
+        "parenting"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475570107169403,
+            "latitude" : 33.879136887730766
+          },
+          "identifier" : "<+33.87913689,-84.47557011> radius 141.75",
+          "radius" : 141.75402345023988
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475570678710938,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879135131835938
+      },
+      "creationDate" : "2016-03-23T20:00:56Z",
+      "text" : "Sometimes \"Freelancer\" Means You're Just Euphemistically Unemployed\nAmongst Other Truths We Developers Stretch\n\nOf course I want your resume to be great, but to put it simple, if you didn’t do it, don’t write about it. They will remember you lied. They won’t forgive you for it. Imposter syndrome is real and very much more of an increasing problem. I’m going to expose some immoral things software engineers do to get a leg up on their next job as well as some nicer alternatives to committing these acts. Disclaimer: I promise I’m not judging you.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 207,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1019.719970703125,
+        "visibilityKM" : 15.840000152587891,
+        "relativeHumidity" : 39,
+        "windSpeedKPH" : 4.630000114440918,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 22.209999084472656
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "282479D86C904BA7ACF32D13A35088B9",
+      "tags" : [
+        "object oriented programming",
+        "lessons",
+        "communication",
+        "employment",
+        "jobs",
+        "industry",
+        "fullstack development",
+        "conflicts",
+        "resume",
+        "job searching",
+        "recruiters",
+        "freelancing",
+        "interviews",
+        "networking",
+        "social media",
+        "coding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.47557286224486,
+            "latitude" : 33.879132892140603
+          },
+          "identifier" : "<+33.87913289,-84.47557286> radius 141.75",
+          "radius" : 141.75402348069892
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475570678710938,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879131317138672
+      },
+      "creationDate" : "2016-03-25T20:01:20Z",
+      "text" : "It's Completely Unproductive Yet Completely Necessary These Days to Have a Plan B\nWhy a Fallback Plan Denotes a Failure Mentality\n\nI watch a LOT of Anime. One thing I’ve learned -- none of the main characters have a backup plan. They’re prepared to die by the sword (or whatever weapon they’re wielding at the moment). They put their all into whatever is in front of them and nothing, not even the threat of poverty will stop them from succeeding and surviving to be drawn in the next episode. Exactly, it’s a cartoon.  We’re not. There are real repercussions for that kind of behavior and while it would be great to put my entire being in everything I do, I simply cannot. Life is too complex to not prepare for failure. However, in the very event that you’re preparing for failure, you’re taking energy away from your success preparations which is unproductive, yet completely necessary. I’m going to cover how to find a balance in providing a fallback plan without sacrificing too much towards your success.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 276,
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1011.7000122070312,
+        "visibilityKM" : 7.2600002288818359,
+        "relativeHumidity" : 46,
+        "windSpeedKPH" : 3.9300000667572021,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 21.489999771118164
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "86AF69A65B234A3A8886627FCC5E5A7D",
+      "tags" : [
+        "pros and cons",
+        "lessons",
+        "productivity"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475532030119965,
+            "latitude" : 33.879142398200131
+          },
+          "identifier" : "<+33.87914240,-84.47553203> radius 141.75",
+          "radius" : 141.75402340919649
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475532531738281,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879142761230469
+      },
+      "creationDate" : "2016-03-28T20:01:57Z",
+      "text" : "I Didn't Get The Job, But I Found Something Better Out of Studying For It\nHow to Build Your Skills Efficiently by Tailoring to the Job Market\n\nI wanted my first paid gig to be at SalesForce so bad. I even landed a phone interview. I was only momentarily stoked when a day later, the manager changed his mind. He told my recruiter wanted someone with more experience and canceled our phone appointment. I had studied so hard. I created for myself a weekend crash course on IP networks and data capacity organization. I even made beautiful diagrams. I really could have saved myself some time that weekend had I just studied the trends and applied for positions within them. Here’s how to learn from my mistakes.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 306,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1016.4199829101562,
+        "visibilityKM" : 7.2399997711181641,
+        "relativeHumidity" : 39,
+        "windSpeedKPH" : 6.679999828338623,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 20.399999618530273
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "EA45768ED4294E55BE5B7A4AE579F763",
+      "tags" : [
+        "jobs",
+        "job searching",
+        "learning",
+        "industry",
+        "productivity",
+        "resume",
+        "coding",
+        "networking",
+        "employment",
+        "recruiters",
+        "personal branding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475532030119965,
+            "latitude" : 33.879142398200131
+          },
+          "identifier" : "<+33.87914240,-84.47553203> radius 141.75",
+          "radius" : 141.75402340919649
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475532531738281,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879142761230469
+      },
+      "creationDate" : "2016-03-29T20:01:48Z",
+      "text" : "Blind Success is the Best Success\nWhy I Seldom Use Google When Stuck\n\nI google a lot of things like, “What is my position in the world as far as household income? “ But I don’t like Googling logical problems. Sometimes I’ll forget the syntax of a framework like Angular 2 and need a quick reminder from their documentation, but when it comes to building a custom pagination component, I won’t google how to write the functions to make the pages jump. I will figure it out.  Why? I’m hired to think. I’m not hired to know. If Google does all the thinking for me, I’m not exercising my brain, rendering me eventually useless. There are other reasons to use discretion when googling an issue. Here are some.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 259,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1018.9199829101562,
+        "visibilityKM" : 7.2600002288818359,
+        "relativeHumidity" : 26,
+        "windSpeedKPH" : 1.2400000095367432,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 21.809999465942383
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "F0C5C4B131094D989E89C4A6E0F3B633",
+      "tags" : [
+        "coding",
+        "google",
+        "learning"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475403290948492,
+            "latitude" : 33.879130342629573
+          },
+          "identifier" : "<+33.87913034,-84.47540329> radius 141.75",
+          "radius" : 141.75402349579051
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.47540283203125,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879131317138672
+      },
+      "creationDate" : "2016-07-26T19:57:36Z",
+      "text" : "Almost a Waste of Time\nSugar-coded Lessons in Programming in PHP\n\nThere are a plethora of free coding resources out there, and if you’re in a financial bind, they are a godsend. If you’re not however and you can afford $25-30 per month for a few months, just invest in your education. Here’s my account from 2015 on why: \n\nOkay, there is much mastery to learn in what feels like a little time on this Earth. I put in for an awesome opportunity-- this coding 'bootcamp' located in Norcross. If it goes well, I'm going to be having the time of my techy little life over 12 weeks. However there's work to do...\n\nPHP\/MySQL.\n\nI knew nothing about it really, aside from it being a language of the databases. I remember about a month ago, I didn't really know where my time was going to be spent this summer or where to start with programming. I'm not a total novice. I can apply the logic of object-oriented programming from a few Computer Science classes I picked up at my university last year.\n\nDespite my adoration for Java and UML diagrams, I'm not a CS major. I opted for a degree in Information Science & Technology because I liked the well-rounded approach of SDLC theoretics being applied to the curriculum. As time progresses with the major, it's also set up for you to learn all about database management, so I preserved my excitement for that day-- BUT, life has a way of changing things around and putting things in front of you in due time.\n\nSo far I've taken the Codecademy Introduction to PHP course. To my surprise, it's a hell of a lot like Java. Actually, it's so much like Java, I breezed through it with minimal issues compared to Java which nearly made me cry. I knew PHP couldn't be that easy though. And it didn't take long to see they left out all the hard parts and virtually everything to do with an underscore (isn't that like all of it?). So upon completing the sugar-coated course, I received a 100%, however I felt like I still had learned zip percent about PHP. My thirst for knowledge continued.\n￼\nWhat I've Learned\nAs the time got further and further away, I realized this course was not getting any harder. Finally I had completed it just to see 100%. The course pathetically lacked depth to the point that I didn't even gather a false sense of security from it. The lesson it taught me was far from the one that it intended to: Skip ahead next time. Look the course over, and decide to yourself, \"Is this really worth the next x amount of hours?\"\n\nIn conclusion, I leave a brief note for the Codecademies out there.\nI understand we're handing out awards to people who just participate nowadays, and the need for praise and self-worth is ever-present as well. But let's not waste people's time with this kind of redundant and minimal effort teaching. If this were an object-oriented programming refresher, then this would be great, however it's not. And that's the problem.\n\n<\/ End of 2015 flashback>\n\nSo when I started paying for subscriptions and finding subscriptions that were apart of my tuition like Lynda.com, life became much more enjoyable. Not only were the lessons much clearer, but they give great overviews. You spend less time listening and watching, while spending more time learning. You’ll have a better understanding of concepts.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 185,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1015.260009765625,
+        "visibilityKM" : 7.7899999618530273,
+        "relativeHumidity" : 44,
+        "windSpeedKPH" : 1.9299999475479126,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 34.360000610351562
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "938E8DD2EE56419AAA1B23AC9B725C90",
+      "tags" : [
+        "lessons",
+        "learning",
+        "PHP",
+        "coding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475460727323025,
+            "latitude" : 33.879100434680808
+          },
+          "identifier" : "<+33.87910043,-84.47546073> radius 141.75",
+          "radius" : 141.75402372368532
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.4754638671875,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879100799560547
+      },
+      "creationDate" : "2016-12-29T00:32:49Z",
+      "text" : "SQL is NOT Easy. I’ll Prove It.\nSolving Real-World Challenges... in Nothing But SQL\n\nI’m not typically running around establishing pet peeves over minute things, but it’s nails on a chalkboard when I hear “SQL is easy!” It’s not. It was one of the hardest classes I ever took in my life. My brain died three times and it wasn’t from a ’SELECT * FROM’ statement. I will prove to you why it is challenging by using real world problems written by Oracle. I am going to show you the roads not traveled in SQL.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 157,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1017.989990234375,
+        "visibilityKM" : 7.6100001335144043,
+        "relativeHumidity" : 67,
+        "windSpeedKPH" : 0.5,
+        "weatherCode" : "cloudy-night",
+        "temperatureCelsius" : 13.119999885559082
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "7292CE0EE2E740F09F339431C4C0E713",
+      "tags" : [
+        "lessons",
+        "Oracle",
+        "SQL",
+        "coding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475517391469765,
+            "latitude" : 33.87913879529151
+          },
+          "identifier" : "<+33.87913880,-84.47551739> radius 141.75",
+          "radius" : 141.75402343465558
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475517272949219,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879138946533203
+      },
+      "creationDate" : "2017-05-13T23:30:57Z",
+      "text" : "The Millennial Double Standard\nThe Real Issue with Millennials... By A Millennial\n\nI always talk about millennials like I’m not a millennial, myself. I’ve been acting like a baby boomer since  day one, but unfortunately, I also still have some millennialism attached to my soul. I’m a hybrid -- a ‘milboominal’.  Due to being mentally stuck in between these generations, I’ll try to point out ways to bridge the gap with my generation, and things to avoid doing (or at least be aware of) if you are in my generation.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 348,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1007.7899780273438,
+        "visibilityKM" : 7.190000057220459,
+        "relativeHumidity" : 65,
+        "windSpeedKPH" : 4.2300000190734863,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 22.670000076293945
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "30369EFD6EEB4B4886E81A45C7977DA2",
+      "tags" : [
+        "stress",
+        "communication",
+        "networking",
+        "conflicts"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.47548157496081,
+            "latitude" : 33.879181002474191
+          },
+          "identifier" : "<+33.87918100,-84.47548157> radius 141.75",
+          "radius" : 141.75402311416406
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475479125976562,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879180908203125
+      },
+      "creationDate" : "2017-06-28T23:27:44Z",
+      "text" : "Have You Ever Walked Over Hot Coals?\nWhat I’ve Learned After a Year of Paired Programming\n\nPair programming actually does work when it is done right. What does it look like when it’s done right? How will you know? I’ve been in several right and wrong pairing situations. I will debunk the myths corporations use to prove pairing while giving more realistic expectations. I will also give you tips and advice on what to expect if you’re pairing or coming into a pairing role. ",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 126,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1018.530029296875,
+        "visibilityKM" : 6.869999885559082,
+        "relativeHumidity" : 54,
+        "windSpeedKPH" : 3.1099998950958252,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 28.340000152587891
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "8B0B8F6A351C441E809E7373DBE71D89",
+      "tags" : [
+        "stress",
+        "jobs",
+        "communication",
+        "productivity",
+        "pros and cons",
+        "interviews",
+        "networking",
+        "conflicts",
+        "employment",
+        "pair programming",
+        "lefties"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475416439367223,
+            "latitude" : 33.879169300719823
+          },
+          "identifier" : "<+33.87916930,-84.47541644> radius 141.75",
+          "radius" : 141.7540232020763
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475418090820312,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879169464111328
+      },
+      "creationDate" : "2018-03-14T23:38:56Z",
+      "text" : "Dealing with the ‘Unpopular Crowd’\nHow to Bridge the Gap with Just About Anyone\n\nFor as long as I could remember, there weren’t many people I wouldn’t talk to. In school, I talked to the goth kids, the jocks, the nerds, the popular kids (when I had to), and everyone in between. It made me a knockout in sales as I progressed to the ranks of a territory account manager, interacting with over thirty retailers while working for T-Mobile. I was the youngest person with the job of all the other account managers and I was boosting sales in rural areas by as much as 433%. I could relate to just about anyone because I always made it a goal to find a common ground between me and the next person I interacted with, even if it was about something completely simple. Everyone has something in common, even in IT where you can come across some quite uninteresting people. I look at them like radios. You just have to dial into the right station to get their reception. I’m going to go over proven methods when it comes to bridging the gap in IT.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 294,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1019.3599853515625,
+        "visibilityKM" : 7,
+        "relativeHumidity" : 29,
+        "windSpeedKPH" : 6.6100001335144043,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 8.3199996948242188
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "B793FCC1340A4B20A6D9B2A8DF9A191F",
+      "tags" : [
+        "lessons",
+        "communication",
+        "networking",
+        "employment",
+        "conflicts",
+        "jobs"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475543564594915,
+            "latitude" : 33.879107420040626
+          },
+          "identifier" : "<+33.87910742,-84.47554356> radius 141.75",
+          "radius" : 141.75402367405886
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475540161132812,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879108428955078
+      },
+      "creationDate" : "2018-04-18T14:52:04Z",
+      "text" : "The Pursuit of Laziness\nHow to Be Lazy Without Sacrificing Productivity \n\nAs a person who is often tired, many people wonder how I show up to work motivated and energetic everyday. And as a person who is super lazy, everyone wonders how I get so much done at work and proclaim to be a workaholic. How can one be both a workaholic and lazy? It’s actually simple. I learned this lifestyle from the CEOs on the Forbes list and fell in love with it.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 241,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1015.5,
+        "visibilityKM" : 6.7600002288818359,
+        "relativeHumidity" : 52,
+        "windSpeedKPH" : 6.630000114440918,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 19.180000305175781
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "6FCB7EA104E243669C2DCF3B24A09B76",
+      "tags" : [
+        "lessons",
+        "jobs",
+        "job searching",
+        "productivity",
+        "pros and cons",
+        "resume",
+        "employment"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475375062283149,
+            "latitude" : 33.879175584025205
+          },
+          "identifier" : "<+33.87917558,-84.47537506> radius 141.75",
+          "radius" : 141.75402315700066
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475372314453125,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879177093505859
+      },
+      "creationDate" : "2018-05-01T23:24:10Z",
+      "text" : "Kiddie Kode Lesson One\nHow to Start With Teaching Children to Code\n\nSo you want your little one to become a computer programmer. I know you want to jump straight in as with every good idea you’ve had, but I implore you this time not to jump straight in. Do not buy any coding books. Do not get them a PC. We’ve got some things to go over first. \n\nThink of your kid as the product you’re trying to build and deploy out of the house eventually, and the process of teaching them to code should follow an SDLC (Software Development Lifecycle). With any SDLC, we need to follow a course of planning, analysis, development, and evaluation. How would this look in an Agile environment?",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 202,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1022.489990234375,
+        "visibilityKM" : 6.7600002288818359,
+        "relativeHumidity" : 41,
+        "windSpeedKPH" : 2.5899999141693115,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 25.399999618530273
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "152A343E62BA4500A91E68D3453BFB9B",
+      "tags" : [
+        "children",
+        "fun",
+        "coding",
+        "lessons",
+        "kiddie kode",
+        "kids"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475410444866128,
+            "latitude" : 33.879128581945835
+          },
+          "identifier" : "<+33.87912858,-84.47541044> radius 141.75",
+          "radius" : 141.75402350811265
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475410461425781,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879127502441406
+      },
+      "creationDate" : "2018-05-02T23:25:18Z",
+      "text" : "Mindless Clutter Lesson One\nYou Want to Be a Coder, Now What?\n\nI originally set out to discuss those of you who want to become a software engineer, but recently, someone reached out to me on Instagram and chose me to be their de-facto teacher for all things coding, except he had no desire to be a software engineer. Initially, I thought it was a waste of my time to explain why you can’t just pick up a keyboard and become a web\/mobile application developer in a few months, but I’m aware of my version of realism sounding a lot like negativity. To be honest, it was negativity. I first asked myself why did I not want to give valid help and realized it was because often people don’t understand the complexities we face as software engineers or why we’re paid like we are. I’m often faced with people discounting my efforts and treating me like all I do is color on a screen. He didn’t say any of that. He just said he wanted to learn. I was just jumping the gun unnecessarily. So I reeled myself back, and picked up another mentee. And this is what he needed to know.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 177,
+        "conditionsDescription" : "Clear",
+        "pressureMB" : 1022.7100219726562,
+        "visibilityKM" : 6.7600002288818359,
+        "relativeHumidity" : 39,
+        "windSpeedKPH" : 2.1400001049041748,
+        "weatherCode" : "clear",
+        "temperatureCelsius" : 26.629999160766602
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "F3702DAA46394D12846C690A9522DD93",
+      "tags" : [
+        "conflicts",
+        "lessons",
+        "communication",
+        "resume",
+        "jobs",
+        "mindless clutter",
+        "job searching",
+        "interviews",
+        "personal branding",
+        "networking",
+        "pros and cons",
+        "coding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475537186091458,
+            "latitude" : 33.879118342692379
+          },
+          "identifier" : "<+33.87911834,-84.47553719> radius 141.75",
+          "radius" : 141.75402359271715
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475540161132812,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879119873046875
+      },
+      "creationDate" : "2018-05-15T23:40:48Z",
+      "text" : "Switching Lanes without Looking\nSigns Your Company Lacks Vision and\/or Good Upper Management\n\n“Building a visionary company requires one percent vision and 99 percent alignment” —Jim Collins and Jerry Porras, Built to Last\n\nI’m going to write this piece as politically correct as I can without hard feelings. I used to work for a company I won’t name. Let’s call it the Finance Union or F-U for short. In my time working at F-U, I discovered not only their lack of vision, but just how badly it impacted all of us.    I want to take a more positive spin on reviewing F-U, and talk about not only the cons of not having a vision and\/or good enforcement policies, but also what it feels like to work for a company with strong vision and values. I’ve had the benefit of both and would like to share with you what I’ve learned.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 79,
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1012.9299926757812,
+        "visibilityKM" : 7.0199999809265137,
+        "relativeHumidity" : 67,
+        "windSpeedKPH" : 5.7800002098083496,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 24.989999771118164
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "CC41B888923248C6A4F2069BBB4EBEE2",
+      "tags" : [
+        "stress",
+        "jobs",
+        "job searching",
+        "communication",
+        "resume",
+        "employment",
+        "conflicts"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475531240032211,
+            "latitude" : 33.879138678013035
+          },
+          "identifier" : "<+33.87913868,-84.47553124> radius 141.75",
+          "radius" : 141.75402343865119
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475532531738281,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879138946533203
+      },
+      "creationDate" : "2018-06-01T23:37:47Z",
+      "text" : "Kiddie Kode Lesson Two\nLEGO Video Games Teach OOP\n\nMy son is an avid gamer. I’ve been thinking about getting him a green screen and letting him be a streamer. I think he would enjoy the concept. I also think kids would love to watch him play video games. He’s super rambunctious when it comes to his sound effects and adorably impatient when it comes to me deliberately not following his directions. I tend to take up the coy approach in parenting. I occasionally behave like I’m incompetent to invoke his responsibleness. Having him step up to do things because someone else cannot is very important to me. I don’t want to raise a kid who has little empathy and nothing to offer.  My indirect approach to teaching my son good samaritan behavior has led me to figuring out how to apply that same level of indirectness to teaching him how to code. Here’s why video games work.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 208,
+        "conditionsDescription" : "Light Rain",
+        "pressureMB" : 1013.5599975585938,
+        "visibilityKM" : 6.5199999809265137,
+        "relativeHumidity" : 96,
+        "windSpeedKPH" : 2.9800000190734863,
+        "weatherCode" : "rain",
+        "temperatureCelsius" : 21.159999847412109
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "6AC0F634D4BB41F69BF8A1D24E2A2551",
+      "tags" : [
+        "children",
+        "fun",
+        "lessons",
+        "kiddie kode",
+        "kids"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475525056196105,
+            "latitude" : 33.879155516868892
+          },
+          "identifier" : "<+33.87915552,-84.47552506> radius 141.75",
+          "radius" : 141.75402330745464
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.47552490234375,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879154205322266
+      },
+      "creationDate" : "2018-06-02T23:35:52Z",
+      "text" : "Mindless Clutter Lesson Two\nYou Need a Website and A Presence\n\nSo let’s get this out of the way again, I’m a minority (if it wasn’t apparent already). IT Hiring managers love diversity on paper, but sometimes I think they’re afraid of it in person. Often times, I’ve been avoided in conversation, in favor of having the same conversations with subordinates about Argyle socks with the guys every week. It felt so strange. It was times like that I felt like I didn’t belong in IT.  It was this same insecurity that actually pushed me harder to be ‘unignorable’ on paper. I could be wrong, but I feel like when you’re a minority, whether by gender, race, background, or anything else, you have to push that much harder to be considered and accepted. And as a non-minority, it’s plausible to feel like affirmative action, people coming into the work force on visas, and things of the like are causing good jobs to slip out of your hands. So there is a valid insecurity on both sides. How can you harness that? I’m going to go over establishing a strong presence that will get a hiring manager’s attention.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 319,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1009.3400268554688,
+        "visibilityKM" : 6.630000114440918,
+        "relativeHumidity" : 60,
+        "windSpeedKPH" : 5.0100002288818359,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 29.329999923706055
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "05FC7AC2AF7E4C1192370949C6AD799D",
+      "tags" : [
+        "lessons",
+        "jobs",
+        "job searching",
+        "websites",
+        "resume",
+        "mindless clutter",
+        "employment",
+        "personal branding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475512096351935,
+            "latitude" : 33.879125548847711
+          },
+          "identifier" : "<+33.87912555,-84.47551210> radius 141.75",
+          "radius" : 141.75402353351697
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475509643554688,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879123687744141
+      },
+      "creationDate" : "2018-06-13T23:16:17Z",
+      "text" : "Story Time. The Day I Decided To Quit\nWhat Drives Employees to Look for Other Jobs\n\nI adored my co-workers, the free Coke Zero, and having a cubicle. I still wanted to leave the company. We all pretty much joked about quitting or confirmed seriously at some point that we were definitely thinking about quitting. Why? What drove us to that point of discontentment? Here are some things to consider and questions to ask before taking your next job offer. ",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 350,
+        "conditionsDescription" : "Light Rain",
+        "pressureMB" : 1015.3800048828125,
+        "visibilityKM" : 6.7300000190734863,
+        "relativeHumidity" : 76,
+        "windSpeedKPH" : 4.619999885559082,
+        "weatherCode" : "rain",
+        "temperatureCelsius" : 25.829999923706055
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "EABE80AB9DF54E51BDB3BA8879235924",
+      "tags" : [
+        "lessons",
+        "stress",
+        "job searching",
+        "communication",
+        "jobs",
+        "resume",
+        "conflicts",
+        "networking",
+        "employment",
+        "recruiters"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475498488265941,
+            "latitude" : 33.879125555438243
+          },
+          "identifier" : "<+33.87912556,-84.47549849> radius 141.75",
+          "radius" : 141.75402353557303
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475502014160156,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879123687744141
+      },
+      "creationDate" : "2018-06-14T23:29:08Z",
+      "text" : "I’m a Quadruple Minority \nWhat it’s Like Being a Left-Handed, Black Single-Mom in IT\n\n“You don’t look\/act like a software engineer,” is typically the response I get, or utter surprise followed by congratulations. I never understood the congratulations. I’ve come to understand they’re not really congratulating me on being a Software Engineer. They’re congratulating me on breaking the income-gap mold determined by my demographics. I am in the global 1% as far as income earned. By myself, in America my income places me in the top 25% of households, top 10% among Black households, and top 5% amongst women. I’ve also lived in public housing, received food stamps, and been on welfare. Most of the people I come across in IT, haven’t really experienced living below the federal poverty level. A lot thought they were poor despite coming from 6-figure households. It’s mind-boggling the odds of a poor person breaking into a higher tax bracket (I believe 5%). What’s even more mind-boggling is the experience. I’m going to take a moment to discuss the challenges I faced going from extreme poverty to being well-off, as well as being a woman in IT, a mother in IT, and last but not least, being Black in IT.",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 273,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1014.22998046875,
+        "visibilityKM" : 6.690000057220459,
+        "relativeHumidity" : 63,
+        "windSpeedKPH" : 3.1500000953674316,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 29.110000610351562
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "1EE51321FFEE4E0C834A2C5091B279E5",
+      "tags" : [
+        "conflicts",
+        "communication",
+        "stress",
+        "employment",
+        "jobs",
+        "industry",
+        "lefties",
+        "African American",
+        "resume",
+        "job searching",
+        "interviews",
+        "networking",
+        "women",
+        "pros and cons",
+        "minorities"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475546764961237,
+            "latitude" : 33.879181761068153
+          },
+          "identifier" : "<+33.87918176,-84.47554676> radius 141.75",
+          "radius" : 141.75402311062302
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475547790527344,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879180908203125
+      },
+      "creationDate" : "2018-06-15T23:26:26Z",
+      "text" : "Ignoring the Problem Isn’t A Solution\nWhy Passive Aggression and Poor Attitudes in the Workplace Should Be Addressed\n\nOnce, I tried to ignore a staff member who started giving me a really hard time when I would go to pick up my son from school. I sincerely thought if I ignored her, eventually she would stop. Had I went to the principal, I could have had a better outcome, but I didn’t and I deeply regret not reporting her for bullying me.  This situation taught me a lot about the importance of stopping the spread of negativity and documenting things for your protection. Let’s learn from my mistakes of undocumented forgiveness and how to apply what I’ve learned about navigating conflict in the workplace.  ",
+      "weather" : {
+        "weatherServiceName" : "Forecast.io",
+        "windBearing" : 172,
+        "conditionsDescription" : "Partly Cloudy",
+        "pressureMB" : 1013.52001953125,
+        "visibilityKM" : 6.4499998092651367,
+        "relativeHumidity" : 58,
+        "windSpeedKPH" : 2.2000000476837158,
+        "weatherCode" : "partly-cloudy",
+        "temperatureCelsius" : 30.610000610351562
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "7201CD45E2304AF7A315E73AB6FD7A25",
+      "tags" : [
+        "stress",
+        "lessons",
+        "communication",
+        "employment",
+        "conflicts",
+        "jobs"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475526203063168,
+            "latitude" : 33.879117132172944
+          },
+          "identifier" : "<+33.87911713,-84.47552620> radius 141.75",
+          "radius" : 141.75402359871487
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.47552490234375,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879116058349609
+      },
+      "creationDate" : "2018-06-27T23:41:41Z",
+      "text" : "What is Normal Stress\nNo Seriously... What is it?\n\nRecently, I found myself crying before going into work. I didn’t even know what the full problem was. I didn’t have time to figure it out. I’m not sure what was worse, going in and pretending you’re fine while denying to everyone that you gradually hate your job more and more, or not even having the time to retrospectively figure out why. After some thoughtful consideration, I’ve compiled some ideas as to what normal job stress is, and when it starts to feel abnormal. I will also go over things you can and probably should do in these situations, as well as what I did.",
+      "weather" : {
+        "sunsetDate" : "2018-06-28T00:53:12Z",
+        "temperatureCelsius" : 22,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 250,
+        "sunriseDate" : "2018-06-27T10:29:27Z",
+        "conditionsDescription" : "Thunderstorms",
+        "pressureMB" : 1015,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 88,
+        "windSpeedKPH" : 13,
+        "weatherCode" : "thunderstorm",
+        "windChillCelsius" : 22
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "A5A6A667766E4177AE6D5CEFC4F1EE03",
+      "tags" : [
+        "lessons",
+        "job searching",
+        "jobs",
+        "communication",
+        "stress",
+        "employment",
+        "conflicts"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475465635125744,
+            "latitude" : 33.879134090765973
+          },
+          "identifier" : "<+33.87913409,-84.47546564> radius 141.75",
+          "radius" : 141.75402347270528
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.4754638671875,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879135131835938
+      },
+      "creationDate" : "2018-06-29T00:19:52Z",
+      "text" : "I Survived Whiteboarding\nWhat I Did Right, and Wrong\n\nWhiteboarding has become much more common these days. With ‘Imposter Syndrome’ being at an all-time high (and moral low), I’m going to go over what interviewers are looking for,  what it’s like being an interviewer at a whiteboarding, what you can do to ace it, what not to do, and the different methods of whiteboarding.",
+      "weather" : {
+        "sunsetDate" : "2018-06-29T00:53:14Z",
+        "temperatureCelsius" : 20.899999618530273,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 0,
+        "sunriseDate" : "2018-06-28T10:29:49Z",
+        "conditionsDescription" : "Cloudy",
+        "pressureMB" : 1014,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 90,
+        "windSpeedKPH" : 0,
+        "weatherCode" : "cloudy",
+        "windChillCelsius" : 21
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "E42AE14D8E34420DA71F3F924D241D04",
+      "tags" : [
+        "lessons",
+        "jobs",
+        "interviews",
+        "employment",
+        "job searching",
+        "recruiters"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475479431979593,
+            "latitude" : 33.879138785938451
+          },
+          "identifier" : "<+33.87913879,-84.47547943> radius 141.75",
+          "radius" : 141.75402343486235
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475479125976562,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879138946533203
+      },
+      "creationDate" : "2018-06-29T23:42:47Z",
+      "text" : "I Make Some Simple A** Mistakes\nFullstack Pros and Cons \n\nI thought something was wrong with my head. I was supposed to do this whiteboarding challenge in Java, and then I started writing ‘var quarterCount;’. I started writing the whole thing in JavaScript, until I got to the methods and realized I was messing up. I laughed it off, explained I’ve been doing a lot of JavaScript lately and needed to turn on my Java brain. It’s definitely a flaw to get the syntax mixed up. There are other hang-ups as well, but definitely some pros to being a fullstacker. Let’s go over them.",
+      "weather" : {
+        "sunsetDate" : "2018-06-30T00:53:14Z",
+        "temperatureCelsius" : 26.799999237060547,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 10,
+        "sunriseDate" : "2018-06-29T10:30:13Z",
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1015,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 76,
+        "windSpeedKPH" : 7,
+        "weatherCode" : "mostly-cloudy",
+        "windChillCelsius" : 27
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "EC582CB0245A4D6AADE6E2FE5EC0DFF2",
+      "tags" : [
+        "JavaScript",
+        "fullstack development",
+        "Java",
+        "pros and cons"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475480836395263,
+            "latitude" : 33.879172205605656
+          },
+          "identifier" : "<+33.87917221,-84.47548084> radius 141.75",
+          "radius" : 141.75402318271986
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475479125976562,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879173278808594
+      },
+      "creationDate" : "2018-06-29T23:45:51Z",
+      "text" : "Talk to Every Recruiter No Matter What \nHow to Increase Your Personal Brand via Recruiters\n\nWhile I was between jobs, I was also beside myself with recruiter contact. I only updated my resume on two job sites, and that was all it took for recruiters to ring me off the hook. After an exhausting week, here I am trying to piece together all the tips I’ve learned to help you smoothly navigate the recruiter pile-up, and why you definitely want to hear each of them out.",
+      "weather" : {
+        "sunsetDate" : "2018-06-30T00:53:14Z",
+        "temperatureCelsius" : 26.799999237060547,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 10,
+        "sunriseDate" : "2018-06-29T10:30:13Z",
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1015,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 76,
+        "windSpeedKPH" : 7,
+        "weatherCode" : "mostly-cloudy",
+        "windChillCelsius" : 27
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "FCC3C293FE4845B4AFD026110EE11E7F",
+      "tags" : [
+        "jobs",
+        "job searching",
+        "communication",
+        "social media",
+        "interviews",
+        "networking",
+        "employment",
+        "recruiters"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475503913263736,
+            "latitude" : 33.879122485390091
+          },
+          "identifier" : "<+33.87912249,-84.47550391> radius 141.75",
+          "radius" : 141.75402355452692
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475502014160156,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879123687744141
+      },
+      "creationDate" : "2018-06-30T23:44:24Z",
+      "text" : "What IS Spring Framework *Exactly*? Part One\nDiving into the Spring Framework... Because I’m Not 100% Sure Either\n\nYou ever read a book, and then years later read it again only to find a completely different meaning than what you previously grasped? That’s how I feel about Spring Framework. I’m long overdue looking at the basic skeleton of this, so let’s build a REST service, start to finish and learn a bit more.",
+      "weather" : {
+        "sunsetDate" : "2018-07-01T00:53:12Z",
+        "temperatureCelsius" : 28.5,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 120,
+        "sunriseDate" : "2018-06-30T10:30:38Z",
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1015,
+        "visibilityKM" : 16.093439102172852,
+        "relativeHumidity" : 67,
+        "windSpeedKPH" : 11,
+        "weatherCode" : "mostly-cloudy-night",
+        "windChillCelsius" : 28
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "89A68C2B13D6436CB539D1E5611BF895",
+      "tags" : [
+        "lessons",
+        "Spring Framework",
+        "Java",
+        "tutorial"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475533701969994,
+            "latitude" : 33.879128591837173
+          },
+          "identifier" : "<+33.87912859,-84.47553370> radius 141.75",
+          "radius" : 141.75402351119223
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475532531738281,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879127502441406
+      },
+      "creationDate" : "2018-07-01T11:40:38Z",
+      "text" : "I Spent the Night with Docker\nRunning WordPress on the MAMP Server for Smarties\n\nSo I finally got a day to myself (sort of) and I decided to learn Docker once and for all. I’m going to walk you through Docker setup for Mac environment, MySQL user creation via PHPMyAdmin, setting up your docker-compose.yml with your MAMP server, and starting up your first WordPress site. ",
+      "weather" : {
+        "sunsetDate" : "2018-07-02T00:53:09Z",
+        "temperatureCelsius" : 23.600000381469727,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 60,
+        "sunriseDate" : "2018-07-01T10:31:04Z",
+        "conditionsDescription" : "Mostly Cloudy",
+        "pressureMB" : 1017,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 88,
+        "windSpeedKPH" : 6,
+        "weatherCode" : "mostly-cloudy",
+        "windChillCelsius" : 23
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "925A3ED4577D405899D6E6620C79C05C",
+      "tags" : [
+        "lessons",
+        "PHP",
+        "containerization",
+        "MySQL",
+        "docker",
+        "tutorial",
+        "MAMP",
+        "SQL"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.475462496762731,
+            "latitude" : 33.879167026010293
+          },
+          "identifier" : "<+33.87916703,-84.47546250> radius 141.75",
+          "radius" : 141.75402322411333
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.4754638671875,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879165649414062
+      },
+      "creationDate" : "2018-07-01T23:48:22Z",
+      "text" : "Mindless Clutter Lesson Three\nThe Resume, Google, and Your Social Media Presence\n\nMy computer generated resume review hurt my feelings. Avoid feeling the sting of someone telling you that you sound like a ‘do-er’ instead of an achiever by following these steps I’m going to tell you. As a person who scores within the top 10% of relatable job ads on LinkedIn, I’m going to go over how to make a great resume for Computer Science related majors according to the people at the exclusive Indeed Prime, what you can do on job posting websites to boost your hiring potential,  and how to push the envelope to look like a great well-rounded candidate.",
+      "weather" : {
+        "sunsetDate" : "2018-07-02T00:53:09Z",
+        "temperatureCelsius" : 27.5,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 100,
+        "sunriseDate" : "2018-07-01T10:31:04Z",
+        "conditionsDescription" : "Cloudy",
+        "pressureMB" : 1017,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 72,
+        "windSpeedKPH" : 15,
+        "weatherCode" : "cloudy",
+        "windChillCelsius" : 28
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "03F3BC5CA35748C7B994F44CAA1156DB",
+      "tags" : [
+        "lessons",
+        "jobs",
+        "job searching",
+        "google",
+        "social media",
+        "resume",
+        "mindless clutter",
+        "employment",
+        "recruiters",
+        "personal branding"
+      ],
+      "duration" : 0
+    },
+    {
+      "starred" : false,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -84.47545186507071,
+            "latitude" : 33.87915082923886
+          },
+          "identifier" : "<+33.87915083,-84.47545187> radius 141.75",
+          "radius" : 141.75402334713311
+        },
+        "localityName" : "Smyrna",
+        "country" : "United States",
+        "timeZoneName" : "America\/New_York",
+        "administrativeArea" : "GA",
+        "longitude" : -84.475448608398438,
+        "placeName" : "3000 Spring Hill Pkwy SE",
+        "latitude" : 33.879150390625
+      },
+      "creationDate" : "2018-07-01T23:48:49Z",
+      "text" : "Kiddie Kode Lesson Three\nTeaching OOP Through Barbies, Superheroes, and Money\n\nIt’s times like this where I’m glad there’s a kid in the house to practice my teaching methods on. Granted he’s lazy with a short attention span, I get about 5-10 good minutes of trial and error before he’s done, which yields a lifetime of analytical data. I’m going to go over how to teach your child the basic constructs of Object-Oriented Programming without using a computer. Instead, we’re going to use tangible objects to hold their attention.",
+      "weather" : {
+        "sunsetDate" : "2018-07-02T00:53:09Z",
+        "temperatureCelsius" : 27.5,
+        "weatherServiceName" : "HAMweather",
+        "windBearing" : 100,
+        "sunriseDate" : "2018-07-01T10:31:04Z",
+        "conditionsDescription" : "Cloudy",
+        "pressureMB" : 1017,
+        "visibilityKM" : 11.265407562255859,
+        "relativeHumidity" : 72,
+        "windSpeedKPH" : 15,
+        "weatherCode" : "cloudy",
+        "windChillCelsius" : 28
+      },
+      "timeZone" : "America\/New_York",
+      "uuid" : "B52D0644FA974D0882F4D282FC98B6AE",
+      "tags" : [
+        "lessons",
+        "fun",
+        "children",
+        "activities",
+        "kids",
+        "object oriented programming",
+        "oop",
+        "kiddie kode"
+      ],
+      "duration" : 0
+    }
+  ]}

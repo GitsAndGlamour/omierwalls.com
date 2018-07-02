@@ -1,5 +1,49 @@
-<div #blog id="blog" class="card card-body card-body-big wow fadeInUp">
-    <!--<br>-->
-    <!--<br>-->
-    <!--<p class="text-center color-primary">BLOG IS ALSO UNDER CONSTRUCTION!</p>-->
-</div>
+  <div #blog id="blog" class="ms-hero-page ms-hero-img-keyboard ms-hero-bg-primary mb-6">
+    <div class="container">
+      <div class="text-center">
+        <span class="ms-logo ms-logo-lg ms-logo-white center-block mb-2 mt-2 animated zoomInDown animation-delay-5">M</span>
+        <h1 class="no-m ms-site-title color-white center-block ms-site-title-lg mt-2 animated zoomInDown animation-delay-5">Blog</h1>
+        <p class="lead lead-lg color-white text-center center-block mt-2 mw-800 fw-300 animated fadeInUp animation-delay-7">Follow my blog which covers a wide-range of topics from <span class="colorStar">technology</span> to
+          <span class="colorStar">parenting</span> and just about anything in between.</p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+    <div class="col-lg-12" *ngFor="let blog of blogs; let blogIndex = index" [attr.data.index]="blogIndex">
+    <article *ngIf="blogIndex >= activePageIndex && blogIndex <= activePageIndex + 4" class="card mb-4 wow materialUp animation-delay-5" style="visibility: visible; animation-name: materialUp;">
+    <div class="card-body">
+    <h3 class="title-header">
+      <a href="javascript:void(0)">{{blog.title}}</a>
+      <p><i *ngIf="blog.date" class="zmdi zmdi-time color-info-light"></i>{{blog.date}}</p>
+    </h3>
+      <h4>
+        <a href="javascript:void(0)">{{blog.subtitle}}</a>
+      </h4>
+    <div class="blog-body">
+      <p *ngFor="let paragraph of blog.body; let i = index" [attr.data-index]="i">{{i === 0 || expandBlog ? paragraph : null}}</p>
+    </div>
+    <div class="row">
+    <div class="col-md-6">
+    <div class="mt-1">
+    <a *ngFor="let tag of blog.tags" href="javascript:void(0)" class="ms-tag ms-tag-{{tag.className}}">{{tag.name}}</a>
+    </div>
+    </div>
+    <div class="col-md-6">
+    <a *ngIf="!expandBlog && blog.body.length > 1" href="javascript:void(0)" (click)="expandBlog = true" class="btn btn-primary btn-raised btn-block animate-icon">Read more
+    <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i>
+    </a>
+    <a *ngIf="expandBlog  && blog.body.length > 1" href="javascript:void(0)" (click)="expandBlog = false" class="btn btn-primary btn-raised btn-block animate-icon">Read less
+    <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i>
+    </a>
+    </div>
+    </div>
+    </div>
+    </article>
+    </div>
+      <div class="col-md-12 blog-footer">
+        <app-blog-pagination (activePageIndex)="onActivePageChange($event)" (minPageIndex)="onPaginationChange($event)" [total]="blogs.length" *ngIf="blogs.length > 0"></app-blog-pagination>
+        <app-blog-display-size [activePageIndex]="activePageIndex" [total]="blogs.length"></app-blog-display-size>
+      </div>
+    </div>
+  </div>

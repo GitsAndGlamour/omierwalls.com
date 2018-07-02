@@ -20,6 +20,10 @@ import { ExperienceComponent } from './main/components/timeline/experience/exper
 import { BlogComponent } from './main/components/blog/blog.component';
 import { ArtworkModalComponent } from './main/components/artwork/artwork-modal/artwork-modal.component';
 import {FormsModule} from '@angular/forms';
+import { BlogSidebarComponent } from './main/components/blog/blog-sidebar/blog-sidebar.component';
+import { BlogPaginationComponent } from './main/components/blog/blog-pagination/blog-pagination.component';
+import {HttpClientModule} from '@angular/common/http';
+import { BlogDisplaySizeComponent } from './main/components/blog/blog-display-size/blog-display-size.component';
 
 @NgModule({
   declarations: [
@@ -40,11 +44,15 @@ import {FormsModule} from '@angular/forms';
     InformationComponent,
     ExperienceComponent,
     BlogComponent,
-    ArtworkModalComponent
+    ArtworkModalComponent,
+    BlogSidebarComponent,
+    BlogPaginationComponent,
+    BlogDisplaySizeComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent],
