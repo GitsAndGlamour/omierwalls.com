@@ -17,14 +17,11 @@ export class BlogDisplaySizeComponent implements OnInit, OnChanges {
     this.calculateMinAndMax();
   }
   ngOnChanges(changes: SimpleChanges) {
-    console.log(changes.activePageIndex);
     this.activePage = changes.activePageIndex.currentValue;
     this.calculateMinAndMax();
   }
   calculateMinAndMax() {
-    console.log(this.activePage);
     this.min = this.activePage + 1;
     this.max = this.min + 5 > this.total ? this.total : this.min + 5;
-    console.log(this.min, this.max);
   }
 }

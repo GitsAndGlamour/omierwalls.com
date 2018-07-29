@@ -5,19 +5,19 @@
         <span aria-hidden="true">«</span>
       </a>
     </li>
-    <li (click)="changeActivePage(0)" class="page-item active">
+    <li (click)="changeActivePage(0)" class="page-item" [ngClass]="{'active' : activePage == 1}">
       <a class="page-link" href="javascript:void(0)">{{this.minPage}}</a>
     </li>
-    <li (click)="changeActivePage(1)" class="page-item">
+    <li (click)="changeActivePage(1)" class="page-item" [ngClass]="{'active' : activePage == 2}">
       <a class="page-link" href="javascript:void(0)">{{this.minPage+1}}</a>
     </li>
-    <li (click)="changeActivePage(2)" class="page-item">
+    <li (click)="changeActivePage(2)" class="page-item" [ngClass]="{'active' : activePage == 3}">
       <a class="page-link" href="javascript:void(0)">{{this.minPage+2}}</a>
     </li>
-    <li (click)="changeActivePage(3)" class="page-item">
+    <li (click)="changeActivePage(3)" class="page-item" [ngClass]="{'active' : activePage == 4}">
       <a class="page-link" href="javascript:void(0)">{{this.minPage+3}}</a>
     </li>
-    <li (click)="changeActivePage(4)" class="page-item">
+    <li (click)="changeActivePage(4)" class="page-item" [ngClass]="{'active' : activePage == 5}">
       <a class="page-link" href="javascript:void(0)">{{this.minPage+4}}</a>
     </li>
     <li class="page-item"(click)="changePageSet(true)">

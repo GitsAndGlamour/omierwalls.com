@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import {CUSTOM_ELEMENTS_SCHEMA, NgModule} from '@angular/core';
+import {FormsModule} from '@angular/forms';
+import {HttpClientModule} from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { ConfiguratorComponent } from './configurator/configurator.component';
@@ -19,10 +21,8 @@ import { InformationComponent } from './main/components/information/information.
 import { ExperienceComponent } from './main/components/timeline/experience/experience.component';
 import { BlogComponent } from './main/components/blog/blog.component';
 import { ArtworkModalComponent } from './main/components/artwork/artwork-modal/artwork-modal.component';
-import {FormsModule} from '@angular/forms';
 import { BlogSidebarComponent } from './main/components/blog/blog-sidebar/blog-sidebar.component';
 import { BlogPaginationComponent } from './main/components/blog/blog-pagination/blog-pagination.component';
-import {HttpClientModule} from '@angular/common/http';
 import { BlogDisplaySizeComponent } from './main/components/blog/blog-display-size/blog-display-size.component';
 
 @NgModule({
